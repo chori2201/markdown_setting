@@ -1,0 +1,7 @@
+{
+  "markdown-pdf.styles": [ "../styles.css" ],
+  "markdown-pdf.includeDefaultStyles": false,
+  "markdown-pdf.printBackground": true,
+  "markdown-pdf.margin.top": "2cm",
+  "markdown-pdf.margin.bottom": "2cm"
+}
